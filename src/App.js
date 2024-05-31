@@ -6,8 +6,8 @@ import ToggleSwitch from './pages/ToggleSwitch';
 function App() {
   return (
     <div>
-      {/* <Form/> */}
-      {/* <TodoList/>  */}
+      <Form/>
+      <TodoList/> 
       <ToggleSwitch/>
     </div>
   );
