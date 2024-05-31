@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lakshaka/static/css/main.8c8c2dd2.css",
-    "main.js": "/lakshaka/static/js/main.2e925353.js",
+    "main.js": "/lakshaka/static/js/main.fef5f43e.js",
     "static/js/453.dd3f4fe8.chunk.js": "/lakshaka/static/js/453.dd3f4fe8.chunk.js",
     "index.html": "/lakshaka/index.html",
     "main.8c8c2dd2.css.map": "/lakshaka/static/css/main.8c8c2dd2.css.map",
-    "main.2e925353.js.map": "/lakshaka/static/js/main.2e925353.js.map",
+    "main.fef5f43e.js.map": "/lakshaka/static/js/main.fef5f43e.js.map",
     "453.dd3f4fe8.chunk.js.map": "/lakshaka/static/js/453.dd3f4fe8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8c8c2dd2.css",
-    "static/js/main.2e925353.js"
+    "static/js/main.fef5f43e.js"
   ]
 }
