@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Form/>
-      <TodoList/> 
+      {/* <TodoList/>  */}
       <ToggleSwitch/>
     </div>
   );
