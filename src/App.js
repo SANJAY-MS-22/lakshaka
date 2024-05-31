@@ -8,7 +8,7 @@ function App() {
     <div>
       <Form/>
       {/* <TodoList/>  */}
-      <ToggleSwitch/>
+      {/* <ToggleSwitch/> */}
     </div>
   );
 }
